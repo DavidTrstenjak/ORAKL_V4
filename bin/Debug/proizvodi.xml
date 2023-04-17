@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodi>
+
+<proizvod>
+<sifra>0001</sifra>
+<naziv>Polubijeli kruh</naziv>
+<cijena>1.50 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0002</sifra>
+<naziv>Raženi kruh</naziv>
+<cijena>2.30 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0003</sifra>
+<naziv>Kruh bobule</naziv>
+<cijena>2.10 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0004</sifra>
+<naziv>Mlijeko 2,8% mm Zbregov</naziv>
+<cijena>0.97 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0005</sifra>
+<naziv>Mlijeko 2,8% mm Dukat</naziv>
+<cijena>0.97 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0006</sifra>
+<naziv>Mlijeko 2,8% mm Moja kravica</naziv>
+<cijena>0.97 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0007</sifra>
+<naziv>Banana 1kg</naziv>
+<cijena>1.25 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0008</sifra>
+<naziv>Jabuka Idared 1kg</naziv>
+<cijena>1.30 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0009</sifra>
+<naziv>Jabuka Granny 1kg</naziv>
+<cijena>1.30 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0010</sifra>
+<naziv>Jabuka Zlatni delišes 1kg</naziv>
+<cijena>1.30 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0011</sifra>
+<naziv>Naranča 1kg</naziv>
+<cijena>1.72 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0012</sifra>
+<naziv>Kruška 1kg</naziv>
+<cijena>1.54 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0013</sifra>
+<naziv>Krastavac 1kg</naziv>
+<cijena>1.13 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0014</sifra>
+<naziv>Limun 1kg</naziv>
+<cijena>1.62 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0015</sifra>
+<naziv>Grejp 1kg</naziv>
+<cijena>2.07 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0016</sifra>
+<naziv>Tikvica 1kg</naziv>
+<cijena>1.20 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0017</sifra>
+<naziv>Salata 1kg</naziv>
+<cijena>0.92 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0018</sifra>
+<naziv>Gljive 1kg</naziv>
+<cijena>2.31 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0019</sifra>
+<naziv>Sok Jabuka 1L</naziv>
+<cijena>1.06 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0020</sifra>
+<naziv>Sok Naranča 1L</naziv>
+<cijena>1.06 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0021</sifra>
+<naziv>Sok Šumsko voće 1L</naziv>
+<cijena>1.06 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0022</sifra>
+<naziv>Sok Jabuka 0,5L</naziv>
+<cijena>0.74 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0023</sifra>
+<naziv>Sok Naranča 0,5L</naziv>
+<cijena>0.74 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0024</sifra>
+<naziv>Sok Šumsko voće 0,5L</naziv>
+<cijena>0.74 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0025</sifra>
+<naziv>Jana 0,5L</naziv>
+<cijena>0.59 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0026</sifra>
+<naziv>Jana 1L</naziv>
+<cijena>0.83 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0027</sifra>
+<naziv>Jana 1,5L</naziv>
+<cijena>1,12 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0028</sifra>
+<naziv>Jamnica 0,5L</naziv>
+<cijena>0.69 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0029</sifra>
+<naziv>Jamnica 1L</naziv>
+<cijena>0.93 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0030</sifra>
+<naziv>Jamnica 1,5L</naziv>
+<cijena>1,22 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0031</sifra>
+<naziv>HELL 0,25L</naziv>
+<cijena>1,18 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0032</sifra>
+<naziv>HELL 0,5L</naziv>
+<cijena>1,66 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0033</sifra>
+<naziv>Coca-Cola 0,25L</naziv>
+<cijena>1,08 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0034</sifra>
+<naziv>Coca-Cola 0,5L</naziv>
+<cijena>1,22 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0035</sifra>
+<naziv>Coca-Cola 1L</naziv>
+<cijena>1,80 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0036</sifra>
+<naziv>Coca-Cola 1,5L</naziv>
+<cijena>2,15 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0037</sifra>
+<naziv>Coca-Cola 2L</naziv>
+<cijena>2,42 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0038</sifra>
+<naziv>Fanta 0,25L</naziv>
+<cijena>1,08 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0039</sifra>
+<naziv>Fanta 0,5L</naziv>
+<cijena>1,22 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0040</sifra>
+<naziv>Fanta 1L</naziv>
+<cijena>1,80 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0041</sifra>
+<naziv>Fanta 1,5L</naziv>
+<cijena>2,15 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0042</sifra>
+<naziv>Fanta 2L</naziv>
+<cijena>2,42 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0043</sifra>
+<naziv>Čips slani 250g</naziv>
+<cijena>1,89 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0044</sifra>
+<naziv>Čips paprika 250g</naziv>
+<cijena>1,99 €</cijena>
+</proizvod>
+
+<proizvod>
+<sifra>0045</sifra>
+<naziv>Smoki 250g</naziv>
+<cijena>1,65 €</cijena>
+</proizvod>
+</proizvodi>
